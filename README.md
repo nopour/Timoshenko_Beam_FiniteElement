@@ -1,4 +1,4 @@
-# Timoshenko_FiniteElement
+# Timoshenko Beam _ FiniteElement
 Deflections and vibrations of Timoshenko beam (Finite Element Method)
 
 ![Picture3](https://github.com/user-attachments/assets/71deb4be-2926-44f8-8332-ae416cf0ae09)
